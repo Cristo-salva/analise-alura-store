@@ -1,4 +1,4 @@
-# Título do seu Projeto (Ex: Análise de Desempenho da Alura Store)
+# Análise de Desempenho da Alura Store
 ---
 ## Descrição
 Este repositório contém a análise de desempenho das quatro lojas da Alura Store, com o objetivo de identificar a loja de menor performance para subsidiar uma decisão de fechamento.
